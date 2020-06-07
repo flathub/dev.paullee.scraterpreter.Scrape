@@ -15,8 +15,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/scraterpreter/scrape.git",
-                    "tag": "20.06.3",
-                    "commit": "00ea9b500b30af8e56375769791ef5449e386579"
+                    "tag": "20.06.5",
+                    "commit": "4aa9259939534e68dfeff444633b9ee75cb5517f"
                 }
             ],
             "builddir": true
