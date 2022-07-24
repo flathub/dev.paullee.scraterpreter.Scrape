@@ -1,7 +1,7 @@
 {
     "app-id": "dev.paullee.scraterpreter.Scrape",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "19.08",
+    "runtime-version": "21.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "scrape",
     "finish-args": [
@@ -15,8 +15,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/scraterpreter/scrape.git",
-                    "tag": "20.06.5",
-                    "commit": "4aa9259939534e68dfeff444633b9ee75cb5517f"
+                    "tag": "20.09.0"
                 }
             ],
             "builddir": true
