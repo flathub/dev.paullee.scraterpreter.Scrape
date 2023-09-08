@@ -1,7 +1,7 @@
 {
     "app-id": "dev.paullee.scraterpreter.Scrape",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "21.08",
+    "runtime-version": "23.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "scrape",
     "finish-args": [
